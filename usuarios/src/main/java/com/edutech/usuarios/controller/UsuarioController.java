@@ -1,9 +1,8 @@
 package com.edutech.usuarios.controller;
 
 
-import com.edutech.usuarios.entity.Usuario;
+import com.edutech.usuarios.model.Usuario;
 import com.edutech.usuarios.service.UsuarioService;
-import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

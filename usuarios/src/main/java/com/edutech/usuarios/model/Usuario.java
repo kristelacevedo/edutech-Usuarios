@@ -1,4 +1,4 @@
-package com.edutech.usuarios.entity;
+package com.edutech.usuarios.model;
 
 
 import jakarta.persistence.Entity;

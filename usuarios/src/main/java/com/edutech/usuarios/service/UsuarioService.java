@@ -1,7 +1,7 @@
 package com.edutech.usuarios.service;
 
 
-import com.edutech.usuarios.entity.Usuario;
+import com.edutech.usuarios.model.Usuario;
 import com.edutech.usuarios.repository.UsuarioRepository;
 import org.springframework.stereotype.Service;
 
